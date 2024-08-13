@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "88e20e334df11df9",
+    "type": "split",
+    "children": [
+      {
+        "id": "43638bc6369ef8a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "660473fb1afec9a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "文档/Q2TG/安装部署.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b353d7e83a496bc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "文档/Q2TG/从 V3 更新到 V4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5101ad8bd8c635f",
+    "type": "split",
+    "children": [
+      {
+        "id": "74fc1edae784635b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33fef2245d4c0d88",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aeb1b28f430189d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23e49b0e39d48ed2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ee6556c5ba647321",
+    "type": "split",
+    "children": [
+      {
+        "id": "69dfa4a1d350a47e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f76fe1305d0fa025",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "文档/Q2TG/从 V3 更新到 V4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bfbfc6f3e4fdb0ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "文档/Q2TG/从 V3 更新到 V4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa5e4b1a4d969af7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "00db0acb6bd29a46",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "文档/Q2TG/从 V3 更新到 V4.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b353d7e83a496bc3",
+  "lastOpenFiles": [
+    "文档/Q2TG/安装部署.md",
+    "文档/Q2TG/从 V3 更新到 V4.md",
+    "vite.config.ts.timestamp-1723543620597-70fe6357401b8.mjs",
+    "文档/Q2TG/使用不同 QQ 客户端的容器部署方式/使用 NapCat 单实例部署.md",
+    "文档/Q2TG/多实例模式介绍.md",
+    "文档/Q2TG/常见问题.md",
+    "文档/Q2TG/用 Cloudflare Tunnel 暴露 Web 端口.md",
+    "文档/Q2TG/进入数据库调试.md",
+    "文档/Q2TG/使用不同 QQ 客户端的容器部署方式/使用 icqq 单实例部署.md",
+    "vite.config.ts.timestamp-1723541905168-66b062b997c0f.mjs",
+    "文档/Q2TG/image/config_cloudflare_tunnel_05.png",
+    "文档/Q2TG/image/config_cloudflare_tunnel_04.png",
+    "文档/Q2TG/image/config_cloudflare_tunnel_02.png",
+    "文档/Q2TG/image/config_cloudflare_tunnel_01.png",
+    "文档/Q2TG/image/config_cloudflare_tunnel_06.png",
+    "文档/Q2TG/image/config_cloudflare_tunnel_03.png",
+    "文档/Q2TG/image",
+    "vite.config.ts.timestamp-1723539168802-4d84e774f61bd.mjs",
+    "文档/Q2TG/使用不同 QQ 客户端的容器部署方式",
+    "vite.config.ts.timestamp-1723538183233-3ed9019d07154.mjs",
+    "index.md"
+  ]
+}
