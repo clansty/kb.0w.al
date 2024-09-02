@@ -146,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,7 +158,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b353d7e83a496bc3",
+  "active": "f76fe1305d0fa025",
   "lastOpenFiles": [
     "文档/Q2TG/安装部署.md",
     "文档/Q2TG/从 V3 更新到 V4.md",
