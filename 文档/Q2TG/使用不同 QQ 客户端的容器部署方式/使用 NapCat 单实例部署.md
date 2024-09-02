@@ -4,7 +4,9 @@
 
 > [!CAUTION]
 > 由于 NapCat 的更新频率非常高，并且经常引入需要手动干预的 Breaking Changes（例如需要所有用户手动修改环境变量的文件路径改变，或者破坏性修改 API 返回格式和字段位置），请在使用 NapCat 接入时充分做好遇到未知问题的准备。
+>
 > 并且在你想要更新 Q2TG 或 NapCat 容器前检查更新内容以及是否需要更新 Docker Compose YAML。
+>
 > 强烈建议只有在 icqq 不可用时才考虑使用 NapCat
 
 https://napneko.github.io/zh-CN
