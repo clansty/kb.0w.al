@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "43638bc6369ef8a6",
+        "id": "cebc88451d3de775",
         "type": "tabs",
         "children": [
           {
-            "id": "660473fb1afec9a8",
+            "id": "8bbc66e517b51d49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文档/Q2TG/安装部署.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b353d7e83a496bc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "文档/Q2TG/从 V3 更新到 V4.md",
+                "file": "文档/AquaDX Bot/各平台 Bot 入口和对比.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文档/Q2TG/从 V3 更新到 V4.md",
+                "file": "文档/AquaDX Bot/各平台 Bot 入口和对比.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文档/Q2TG/从 V3 更新到 V4.md",
+                "file": "文档/AquaDX Bot/各平台 Bot 入口和对比.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文档/Q2TG/从 V3 更新到 V4.md"
+                "file": "文档/AquaDX Bot/各平台 Bot 入口和对比.md"
               }
             }
           }
@@ -158,28 +145,30 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f76fe1305d0fa025",
+  "active": "8bbc66e517b51d49",
   "lastOpenFiles": [
+    "文档/Q2TG/image/config_cloudflare_tunnel_06.png",
+    "文档/Q2TG/image/config_cloudflare_tunnel_05.png",
+    "文档/Q2TG/image/config_cloudflare_tunnel_04.png",
+    "文档/Q2TG/image/config_cloudflare_tunnel_03.png",
+    "文档/Q2TG/image/config_cloudflare_tunnel_02.png",
+    "文档/Q2TG/image/config_cloudflare_tunnel_01.png",
+    "文档/Q2TG/常见问题.md",
     "文档/Q2TG/安装部署.md",
+    "文档/Q2TG/多实例模式介绍.md",
+    "文档/AquaDX Bot/各平台 Bot 入口和对比.md",
+    "文档/AquaDX Bot",
+    "index.md",
     "文档/Q2TG/从 V3 更新到 V4.md",
     "vite.config.ts.timestamp-1723543620597-70fe6357401b8.mjs",
     "文档/Q2TG/使用不同 QQ 客户端的容器部署方式/使用 NapCat 单实例部署.md",
-    "文档/Q2TG/多实例模式介绍.md",
-    "文档/Q2TG/常见问题.md",
     "文档/Q2TG/用 Cloudflare Tunnel 暴露 Web 端口.md",
     "文档/Q2TG/进入数据库调试.md",
     "文档/Q2TG/使用不同 QQ 客户端的容器部署方式/使用 icqq 单实例部署.md",
     "vite.config.ts.timestamp-1723541905168-66b062b997c0f.mjs",
-    "文档/Q2TG/image/config_cloudflare_tunnel_05.png",
-    "文档/Q2TG/image/config_cloudflare_tunnel_04.png",
-    "文档/Q2TG/image/config_cloudflare_tunnel_02.png",
-    "文档/Q2TG/image/config_cloudflare_tunnel_01.png",
-    "文档/Q2TG/image/config_cloudflare_tunnel_06.png",
-    "文档/Q2TG/image/config_cloudflare_tunnel_03.png",
     "文档/Q2TG/image",
     "vite.config.ts.timestamp-1723539168802-4d84e774f61bd.mjs",
     "文档/Q2TG/使用不同 QQ 客户端的容器部署方式",
-    "vite.config.ts.timestamp-1723538183233-3ed9019d07154.mjs",
-    "index.md"
+    "vite.config.ts.timestamp-1723538183233-3ed9019d07154.mjs"
   ]
 }
