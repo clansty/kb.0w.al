@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cebc88451d3de775",
+        "id": "897e4ba9996bdbdd",
         "type": "tabs",
         "children": [
           {
-            "id": "8bbc66e517b51d49",
+            "id": "b9d7f6ec335bec8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文档/AquaDX Bot/各平台 Bot 入口和对比.md",
+                "file": "文档/皇帝的新正文/bug 测试.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文档/AquaDX Bot/各平台 Bot 入口和对比.md",
+                "file": "文档/皇帝的新正文/bug 测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文档/AquaDX Bot/各平台 Bot 入口和对比.md",
+                "file": "文档/皇帝的新正文/bug 测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文档/AquaDX Bot/各平台 Bot 入口和对比.md"
+                "file": "文档/皇帝的新正文/bug 测试.md"
               }
             }
           }
@@ -145,30 +145,43 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8bbc66e517b51d49",
+  "active": "33fef2245d4c0d88",
   "lastOpenFiles": [
+    "__unconfig_vite.config.ts",
+    "文档/皇帝的新正文/透明代理可能影响游戏启动.md",
+    "文档/皇帝的新正文/images/20240926194330.png",
+    "vite.config.ts.timestamp-1727352983939-ec9ebd89ba0ed.mjs",
+    "vite.config.ts.timestamp-1727352980592-522de6e570f6e.mjs",
+    "文档/AquaDX/透明代理可能影响游戏启动.md",
+    "文档/皇帝的新正文/bug 测试.md",
+    "文档/皇帝的新正文/images/img.avif",
+    "文档/皇帝的新正文/images",
+    "文档/皇帝的新正文/New folder",
+    "vite.config.ts.timestamp-1727352795029-390e6c039f5fb.mjs",
+    "vite.config.ts.timestamp-1727352791372-91b0a3e1c7d62.mjs",
+    "文档/皇帝的新正文/img.avif",
+    "文档/皇帝的新正文/img.png",
+    "文档/皇帝的新正文",
+    "文档/AquaDX/images/20240926194330.avif",
+    "vite.config.ts.timestamp-1727351801951-6ed15cde7bd47.mjs",
+    "文档/Q2TG/用 Cloudflare Tunnel 暴露 Web 端口.md",
+    "images/Pasted.md",
+    "images",
+    "文档/AquaDX/images/Pasted image 20240926194330.avif",
+    "文档/AquaDX/images/Pasted image 20240926194330.png",
+    "文档/AquaDX/images",
+    "Pasted image 20240926194330.png",
+    "文档/AquaDX Bot/各平台 Bot 入口和对比.md",
+    "文档/AquaDX/未命名.canvas",
     "文档/Q2TG/image/config_cloudflare_tunnel_06.png",
     "文档/Q2TG/image/config_cloudflare_tunnel_05.png",
-    "文档/Q2TG/image/config_cloudflare_tunnel_04.png",
-    "文档/Q2TG/image/config_cloudflare_tunnel_03.png",
-    "文档/Q2TG/image/config_cloudflare_tunnel_02.png",
-    "文档/Q2TG/image/config_cloudflare_tunnel_01.png",
     "文档/Q2TG/常见问题.md",
     "文档/Q2TG/安装部署.md",
     "文档/Q2TG/多实例模式介绍.md",
-    "文档/AquaDX Bot/各平台 Bot 入口和对比.md",
-    "文档/AquaDX Bot",
     "index.md",
     "文档/Q2TG/从 V3 更新到 V4.md",
-    "vite.config.ts.timestamp-1723543620597-70fe6357401b8.mjs",
     "文档/Q2TG/使用不同 QQ 客户端的容器部署方式/使用 NapCat 单实例部署.md",
-    "文档/Q2TG/用 Cloudflare Tunnel 暴露 Web 端口.md",
     "文档/Q2TG/进入数据库调试.md",
-    "文档/Q2TG/使用不同 QQ 客户端的容器部署方式/使用 icqq 单实例部署.md",
-    "vite.config.ts.timestamp-1723541905168-66b062b997c0f.mjs",
-    "文档/Q2TG/image",
-    "vite.config.ts.timestamp-1723539168802-4d84e774f61bd.mjs",
-    "文档/Q2TG/使用不同 QQ 客户端的容器部署方式",
-    "vite.config.ts.timestamp-1723538183233-3ed9019d07154.mjs"
+    "文档/Q2TG/使用不同 QQ 客户端的容器部署方式/使用 icqq 单实例部署.md"
   ]
 }
