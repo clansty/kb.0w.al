@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文档/皇帝的新正文/bug 测试.md",
+                "file": "文档/皇帝的新正文/透明代理可能影响游戏启动.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文档/皇帝的新正文/bug 测试.md",
+                "file": "文档/皇帝的新正文/透明代理可能影响游戏启动.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文档/皇帝的新正文/bug 测试.md",
+                "file": "文档/皇帝的新正文/透明代理可能影响游戏启动.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文档/皇帝的新正文/bug 测试.md"
+                "file": "文档/皇帝的新正文/透明代理可能影响游戏启动.md"
               }
             }
           }
@@ -145,15 +145,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "33fef2245d4c0d88",
+  "active": "f76fe1305d0fa025",
   "lastOpenFiles": [
+    "文档/AquaDX/20240926194330.png",
+    "文档/AquaDX/透明代理可能影响游戏启动.md",
+    "文档/皇帝的新正文/bug 测试.md",
     "__unconfig_vite.config.ts",
     "文档/皇帝的新正文/透明代理可能影响游戏启动.md",
     "文档/皇帝的新正文/images/20240926194330.png",
     "vite.config.ts.timestamp-1727352983939-ec9ebd89ba0ed.mjs",
     "vite.config.ts.timestamp-1727352980592-522de6e570f6e.mjs",
-    "文档/AquaDX/透明代理可能影响游戏启动.md",
-    "文档/皇帝的新正文/bug 测试.md",
     "文档/皇帝的新正文/images/img.avif",
     "文档/皇帝的新正文/images",
     "文档/皇帝的新正文/New folder",
@@ -169,7 +170,6 @@
     "images",
     "文档/AquaDX/images/Pasted image 20240926194330.avif",
     "文档/AquaDX/images/Pasted image 20240926194330.png",
-    "文档/AquaDX/images",
     "Pasted image 20240926194330.png",
     "文档/AquaDX Bot/各平台 Bot 入口和对比.md",
     "文档/AquaDX/未命名.canvas",
