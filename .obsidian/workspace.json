@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文档/AquaDX/透明代理可能影响游戏启动.md",
+                "file": "文档/皇帝的新正文/透明代理可能影响游戏启动.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文档/AquaDX/透明代理可能影响游戏启动.md",
+                "file": "文档/皇帝的新正文/透明代理可能影响游戏启动.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文档/AquaDX/透明代理可能影响游戏启动.md",
+                "file": "文档/皇帝的新正文/透明代理可能影响游戏启动.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文档/AquaDX/透明代理可能影响游戏启动.md"
+                "file": "文档/皇帝的新正文/透明代理可能影响游戏启动.md"
               }
             }
           }
@@ -147,11 +147,13 @@
   },
   "active": "b9d7f6ec335bec8f",
   "lastOpenFiles": [
+    "文档/皇帝的新正文/测试.md",
+    "文档/皇帝的新正文/透明代理可能影响游戏启动 copy.md",
+    "文档/AquaDX/透明代理可能影响游戏启动.md",
     "文档/皇帝的新正文/透明代理可能影响游戏启动.md",
     "文档/皇帝的新正文/另一个触发表现.md",
     "文档/皇帝的新正文/透明代理可能影响游戏启动 - Copy.md",
     "文档/AquaDX/20240926194330.png",
-    "文档/AquaDX/透明代理可能影响游戏启动.md",
     "文档/皇帝的新正文/bug 测试.md",
     "__unconfig_vite.config.ts",
     "文档/皇帝的新正文/images/20240926194330.png",
