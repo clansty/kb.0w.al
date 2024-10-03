@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "897e4ba9996bdbdd",
+        "id": "817fabfce543a8e9",
         "type": "tabs",
         "children": [
           {
-            "id": "b9d7f6ec335bec8f",
+            "id": "92859193182e28d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文档/AquaDX/透明代理可能影响游戏启动.md",
+                "file": "文档/AquaDX/如何导入国服数据.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文档/AquaDX/透明代理可能影响游戏启动.md",
+                "file": "文档/AquaDX/如何导入国服数据.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文档/AquaDX/透明代理可能影响游戏启动.md",
+                "file": "文档/AquaDX/如何导入国服数据.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文档/AquaDX/透明代理可能影响游戏启动.md"
+                "file": "文档/AquaDX/如何导入国服数据.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -145,13 +146,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b9d7f6ec335bec8f",
+  "active": "92859193182e28d1",
   "lastOpenFiles": [
+    "文档/AquaDX/images/Pasted image 20241003161137.png",
+    "文档/Q2TG/从 V3 更新到 V4.md",
+    "文档/Q2TG/使用不同 QQ 客户端的容器部署方式/使用 NapCat 单实例部署.md",
+    "文档/Q2TG/使用不同 QQ 客户端的容器部署方式/使用 icqq 单实例部署.md",
+    "文档/AquaDX/如何导入国服数据.md",
+    "文档/AquaDX/images/Pasted image 20241003160856.png",
+    "文档/AquaDX/透明代理可能影响游戏启动.md",
     "文档/AquaDX/images/20240926194330.png",
     "文档/皇帝的新正文/透明代理可能影响游戏启动.md",
     "文档/皇帝的新正文/测试.md",
     "文档/皇帝的新正文/透明代理可能影响游戏启动 copy.md",
-    "文档/AquaDX/透明代理可能影响游戏启动.md",
     "文档/皇帝的新正文/另一个触发表现.md",
     "文档/皇帝的新正文/透明代理可能影响游戏启动 - Copy.md",
     "文档/AquaDX/20240926194330.png",
@@ -175,17 +182,12 @@
     "images",
     "文档/AquaDX/images/Pasted image 20240926194330.avif",
     "文档/AquaDX/images/Pasted image 20240926194330.png",
-    "Pasted image 20240926194330.png",
     "文档/AquaDX Bot/各平台 Bot 入口和对比.md",
     "文档/AquaDX/未命名.canvas",
-    "文档/Q2TG/image/config_cloudflare_tunnel_06.png",
     "文档/Q2TG/常见问题.md",
     "文档/Q2TG/安装部署.md",
     "文档/Q2TG/多实例模式介绍.md",
     "index.md",
-    "文档/Q2TG/从 V3 更新到 V4.md",
-    "文档/Q2TG/使用不同 QQ 客户端的容器部署方式/使用 NapCat 单实例部署.md",
-    "文档/Q2TG/进入数据库调试.md",
-    "文档/Q2TG/使用不同 QQ 客户端的容器部署方式/使用 icqq 单实例部署.md"
+    "文档/Q2TG/进入数据库调试.md"
   ]
 }
