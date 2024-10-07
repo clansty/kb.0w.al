@@ -15,7 +15,9 @@ https://napneko.github.io/zh-CN
 
 然后通过访问主机 IP:6099/webui 登录 QQ，登录的 token 在 docker compose logs 里会显示。完成之后再开始 Q2TG 的配置。会自动使用设置好的 NapCat WebSocket 连接
 
-请使用这里的 [docker-compose.yaml](https://github.com/clansty/Q2TG/blob/sleepyfox/docker-compose-examples/NapCat/docker-compose.yaml)
+Cloudflare Tunnel 请使用这里的 [docker-compose.yaml](https://github.com/clansty/Q2TG/blob/sleepyfox/docker-compose-examples/NapCat/with-cloudflare-tunnel/docker-compose.yaml)
+
+Nginx + Certbot 请使用这里的 [docker-compose.yaml](https://github.com/clansty/Q2TG/blob/sleepyfox/docker-compose-examples/NapCat/with-nginx-certbot/docker-compose.yaml)
 
 ## 将原先使用 icqq 的实例转换为 NapCat
 

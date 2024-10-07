@@ -2,7 +2,9 @@
 
 这是和 v2、v3 相同的登录方式。如果 icqq 可以用的话，就不要切换到 NapCat
 
-请使用这里的 [docker-compose.yaml](https://github.com/clansty/Q2TG/blob/sleepyfox/docker-compose-examples/icqq/docker-compose.yaml)
+Cloudflare Tunnel 请使用这里的 [docker-compose.yaml](https://github.com/clansty/Q2TG/blob/sleepyfox/docker-compose-examples/icqq/with-cloudflare-tunnel/docker-compose.yaml)
+
+Nginx + Certbot 请使用这里的 [docker-compose.yaml](https://github.com/clansty/Q2TG/blob/sleepyfox/docker-compose-examples/icqq/with-nginx-certbot/docker-compose.yaml)
 
 ## 更换签名版本
 
