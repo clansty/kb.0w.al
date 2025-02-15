@@ -5,7 +5,7 @@
 - 微星小飞机（AfterBurner）不能开（其他 OSD 也基本不行）
 - SignalRGB 会占用 RGB 端口导致 Mai 出问题
 
-### 如何在我的 MacBook / ARM64 的 Windows 设备 / 树莓派上玩
+### 如何在我的 MacBook / ARM64 的 Windows 设备 / 树莓派 / Linux 上玩
 
 我的评价是与其花大功夫在这些设备上想办法启动，不如老老实实换个性能合适的 x86_64 Windows 设备
 

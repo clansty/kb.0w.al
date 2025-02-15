@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -139,7 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文档/AquaDX/Sinmai 常见问题及解决方法.md"
+                "file": "文档/AquaDX/Sinmai 常见问题及解决方法.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline of Sinmai 常见问题及解决方法"
