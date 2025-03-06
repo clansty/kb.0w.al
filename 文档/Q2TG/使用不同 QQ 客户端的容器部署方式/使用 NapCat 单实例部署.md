@@ -13,7 +13,14 @@ https://napneko.github.io/zh-CN
 
 请在 napcat 容器的 ACCOUNT 变量中填写你要登录的 QQ 号，并且将 mac 改成一个唯一的虚拟 mac 地址（方便 QQ 保存你的登录信息）
 
-然后通过访问主机 IP:6099/webui 登录 QQ，登录的 token 在 docker compose logs 里会显示。完成之后再开始 Q2TG 的配置。会自动使用设置好的 NapCat WebSocket 连接
+然后通过访问主机 IP:6099/webui 登录 QQ，登录的 token 默认值是 `napcat`。
+
+> [!CAUTION]
+> 请在登录后立即更改默认 token，或记得在配置完成后关闭 WebUI 的公网访问。
+
+在 WebUI -> 网络配置 -> Websocket服务器 中新建一个 Websocket 服务器，名字随便填写，其他配置保持默认。
+
+完成之后再开始 Q2TG 的配置。会自动使用设置好的 NapCat WebSocket 连接
 
 Cloudflare Tunnel 请使用这里的 [docker-compose.yaml](https://github.com/clansty/Q2TG/blob/sleepyfox/docker-compose-examples/NapCat/with-cloudflare-tunnel/docker-compose.yaml)
 
@@ -39,7 +46,6 @@ services:
     image: mlikiowa/napcat-docker:latest
     environment:
       - ACCOUNT=要登录的 QQ 号
-      - WS_ENABLE=true
     ports:
       - 6098:6099
     mac_address: 02:42:12:34:56:78 # 请修改为一个固定的 MAC 地址，但是不要和其他容器或你的主机重复
